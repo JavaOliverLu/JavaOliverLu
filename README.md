@@ -4,6 +4,7 @@
 - CTF TEAM "SHAOCHI LU"
 -NEHS RRC
 -FRC7636
+-資工壞小子
 
 #QUALIFIED OCPJP Oracle Certified PROFESSIONAL Java Programmer
 
